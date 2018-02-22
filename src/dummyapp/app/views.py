@@ -1,6 +1,6 @@
 from flask import render_template
 from app import app
-from systeminfo import platform_specs()
+from systeminfo import platform_specs
 result = platform_specs()
 
 @app.route('/')
