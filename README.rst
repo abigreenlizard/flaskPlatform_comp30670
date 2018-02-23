@@ -10,11 +10,17 @@ Installation
 ===========
 
 Clone the systemInfo repository and install it with by navigating to the folder and using pip install -e .
+
 Install flask with pip install flask
+
 Clone flaskPlatform
+
 Ensure port 5000 is free and open
+
 run /dummapp/run.py with python3
+
 Open a web-browser and visit localhost:5000
+
 That's it!
 
 
